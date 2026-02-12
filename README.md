@@ -90,10 +90,11 @@ def train_model(model,train_loader,test_loader,loss_fn,optimixer,epochs=3):
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-
+```
 Epoch 1: Train Loss = 55.3333, Val Loss = 7.3659
 Epoch 2: Train Loss = 28.0244, Val Loss = 6.7441
 Epoch 3: Train Loss = 24.7661, Val Loss = 5.8001
+```
 ```
 Name: MEENAKSHI R
 Register Number: 212224220062
